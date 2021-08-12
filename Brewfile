@@ -61,6 +61,8 @@ cask 'phpmon'
 cask 'visual-studio-code'
 cask 'tableplus'
 cask 'the-unarchiver'
+cask 'spotify'
+cask 'notion'
 
 # Quicklook
 cask 'qlmarkdown'
@@ -82,4 +84,4 @@ mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
 mas 'Spark', id: 1176895641
 mas 'Speedtest', id: 1153157709
-mas 'Sketchpad Premium'
+mas 'Sketchpad Premium', id: 1562886727
