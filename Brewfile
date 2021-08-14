@@ -63,6 +63,7 @@ cask 'tableplus'
 cask 'the-unarchiver'
 cask 'spotify'
 cask 'notion'
+cask 'appcleaner'
 
 # Quicklook
 cask 'qlmarkdown'
