@@ -80,9 +80,8 @@ cask 'font-source-serif-pro'
 
 # Mac App Store
 
-mas 'Giphy Capture', id: 668208984
+mas 'GIPHY Capture. The GIF Maker', id: 668208984
 mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
-mas 'Spark', id: 1176895641
 mas 'Speedtest', id: 1153157709
 mas 'Sketchpad Premium', id: 1562886727
