@@ -2,6 +2,9 @@
 
 echo "Setting up your Mac..."
 
+#init and update submodules
+git submodule init && git submodule update
+
 # Check for Oh My Zsh and install if we don't have it
 if test ! $(which omz); then
   /bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/HEAD/tools/install.sh)"
@@ -38,6 +41,8 @@ mkdir $HOME/Sites
 # mkdir $HOME/Sites/perso
 # mkdir $HOME/Sites/training
 # mkdir $HOME/Sites/pro
+
+
 
 # Clone Github repositories
 ./clone.sh
