@@ -17,6 +17,7 @@ brew 'grep'
 brew 'httpie'
 brew 'hub'
 brew 'mackup'
+brew 'speedtest-cli' #needed for alfred workflow speedtest
 brew 'mas' # Mac App Store manager
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
 #brew 'stripe/stripe-cli/stripe'
@@ -83,5 +84,4 @@ cask 'font-source-serif-pro'
 mas 'GIPHY Capture. The GIF Maker', id: 668208984
 mas 'Keynote', id: 409183694
 mas 'Numbers', id: 409203825
-mas 'Speedtest', id: 1153157709
 mas 'Sketchpad Premium', id: 1562886727
