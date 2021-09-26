@@ -65,7 +65,8 @@ cask 'tableplus'
 cask 'the-unarchiver'
 cask 'spotify'
 cask 'notion'
-cask 'appcleaner'
+cask 'appcleaner' #uninstaller
+cask 'android-file-transfer' #transfer file from android to macOS
 
 # Quicklook
 cask 'qlmarkdown'
