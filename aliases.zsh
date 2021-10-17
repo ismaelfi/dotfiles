@@ -65,3 +65,20 @@ alias pam:rs='php artisan migrate:refresh --seed'
 alias cu='composer update'
 alias ci='composer install'
 alias cda='composer dump-autoload -o'
+
+function tinker() {
+
+  if [ -z "$1" ]
+    then
+      php artisan tinker
+    else
+      php artisan tinker --execute="dd($1);"
+    fi
+}
+
+#NPM
+
+alias nrd='npm run development'
+alias nrp='npm run production'
+alias nu='npm update'
+alias ni='npm install'
