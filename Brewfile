@@ -24,6 +24,7 @@ brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
 brew 'svn'
 brew 'trash' # Manage the Trash bin
 brew 'tree' # List directories in a tree structure
+
 # brew 'zlib' # Needed for Memcached
 
 # Spatie Medialibrary
@@ -63,8 +64,8 @@ cask 'phpmon'
 cask 'visual-studio-code'
 cask 'tableplus'
 cask 'the-unarchiver'
-cask 'ytmdesktop-youtube-music'
 cask 'notion'
+cask 'logseq'
 cask 'appcleaner' #uninstaller
 cask 'android-file-transfer' #transfer file from android to macOS
 
