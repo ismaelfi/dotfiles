@@ -69,6 +69,8 @@ cask 'tableplus'
 cask 'the-unarchiver'
 cask 'notion'
 cask 'logseq'
+cask 'vlc'
+cask 'clean-me' #https://github.com/Kevin-De-Koninck/Clean-Me
 cask 'appcleaner' #uninstaller
 cask 'android-file-transfer' #transfer file from android to macOS
 cask 'koodo-reader' #mobi pdf reader
